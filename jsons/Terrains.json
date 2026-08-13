@@ -7,7 +7,7 @@
         "RGB": [0, 163, 0],
         "uniques": [
 			"A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
-			"Becomes [Glasslands] when adjacent to [Glasslands]",
+			"Becomes [Glassland] when adjacent to [Glasslands]",
 			"Becomes [Plains] when adjacent to [Plains]",
 			"Becomes [Tundra] when adjacent to [Tundra]",
 			"Becomes [Snow] when adjacent to [Snow]",
@@ -21,7 +21,6 @@
         "RGB": [0, 163, 0],
         "uniques": [
 			"Grassland",
-			"Becomes [Glassland] when adjacent to [All]",
             "Occurs at temperature between [-1] and [1] and humidity between [-1] and [1] <with [10]% chance>",
             "[+3] to Fertility for Map Generation",
             "A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
