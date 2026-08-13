@@ -8,7 +8,7 @@
         "uniques": [
 			"Occurs at temperature between [-1] and [1] and humidity between [-1] and [1]",
 			"A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
-			"Becomes [Glassland] when adjacent to [All]",
+			"Becomes [Grassland] when adjacent to [All]",
 			"Becomes [Plains] when adjacent to [Plains] <with [10]% chance>",
 			"Becomes [Tundra] when adjacent to [Tundra] <with [10]% chance>",
 			"Becomes [Desert] when adjacent to [Desert] <with [10]% chance>",
@@ -37,7 +37,7 @@
 			"Becomes [Tundra] when adjacent to [Tundra] <with [10]% chance>",
 			"Becomes [Desert] when adjacent to [Desert] <with [10]% chance>",
 			"Becomes [Snow] when adjacent to [Snow] <with [10]% chance>",
-			"Becomes [Glassland] when adjacent to [Glassland] <with [10]% chance>",
+			"Becomes [Grassland] when adjacent to [Grassland] <with [10]% chance>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
@@ -55,7 +55,7 @@
 			"Becomes [Tundra] when adjacent to [All]",
 			"Becomes [Desert] when adjacent to [Desert] <with [10]% chance>",
 			"Becomes [Snow] when adjacent to [Snow] <with [10]% chance>",
-			"Becomes [Glassland] when adjacent to [Glassland] <with [10]% chance>",
+			"Becomes [Grassland] when adjacent to [Grassland] <with [10]% chance>",
 			"Becomes [Plains] when adjacent to [Plains] <with [10]% chance>",
             "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
@@ -70,7 +70,7 @@
             "Becomes [Flood plains] when adjacent to [River]",
 			"Becomes [Desert] when adjacent to [All]",
 			"Becomes [Snow] when adjacent to [Snow] <with [10]% chance>",
-			"Becomes [Glassland] when adjacent to [Glassland] <with [10]% chance>",
+			"Becomes [Grassland] when adjacent to [Grassland] <with [10]% chance>",
 			"Becomes [Plains] when adjacent to [Plains] <with [10]% chance>",
 			"Becomes [Tundra] when adjacent to [Tundra] <with [10]% chance>",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
@@ -90,7 +90,7 @@
             "Always Fertility [-1] for Map Generation",
             "Considered [Undesirable] when determining start locations",
 			"Becomes [Snow] when adjacent to [All]",
-			"Becomes [Glassland] when adjacent to [Glassland] <with [10]% chance>",
+			"Becomes [Grassland] when adjacent to [Grassland] <with [10]% chance>",
 			"Becomes [Plains] when adjacent to [Plains] <with [10]% chance>",
 			"Becomes [Tundra] when adjacent to [Tundra] <with [10]% chance>",
 			"Becomes [Desert] when adjacent to [Desert] <with [10]% chance>",
