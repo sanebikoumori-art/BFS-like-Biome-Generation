@@ -10,6 +10,7 @@
 			"Becomes [Glassland] when adjacent to [Glassland]",
 			"Becomes [Plains] when adjacent to [Plains]",
 			"Becomes [Tundra] when adjacent to [Tundra]",
+			"Becomes [Desert] when adjacent to [Desert]",
 			"Becomes [Snow] when adjacent to [Snow]",
 		]
     },
@@ -31,10 +32,11 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-			"Becomes [Glassland] when adjacent to [Glassland]",
 			"Becomes [Plains] when adjacent to [Plains]",
 			"Becomes [Tundra] when adjacent to [Tundra]",
+			"Becomes [Desert] when adjacent to [Desert]",
 			"Becomes [Snow] when adjacent to [Snow]",
+			"Becomes [Glassland] when adjacent to [Glassland]",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
@@ -49,11 +51,11 @@
             "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
-            "Becomes [Plains] when adjacent to [River]",
+			"Becomes [Tundra] when adjacent to [Tundra]",
+			"Becomes [Desert] when adjacent to [Desert]",
+			"Becomes [Snow] when adjacent to [Snow]",
 			"Becomes [Glassland] when adjacent to [Glassland]",
 			"Becomes [Plains] when adjacent to [Plains]",
-			"Becomes [Tundra] when adjacent to [Tundra]",
-			"Becomes [Snow] when adjacent to [Snow]",
             "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
@@ -65,10 +67,11 @@
             "[+1] to Fertility for Map Generation",
             "A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
             "Becomes [Flood plains] when adjacent to [River]",
+			"Becomes [Desert] when adjacent to [Desert]",
+			"Becomes [Snow] when adjacent to [Snow]",
 			"Becomes [Glassland] when adjacent to [Glassland]",
 			"Becomes [Plains] when adjacent to [Plains]",
 			"Becomes [Tundra] when adjacent to [Tundra]",
-			"Becomes [Snow] when adjacent to [Snow]",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
@@ -85,11 +88,11 @@
             "Occurs at temperature between [-0.6] and [-0.5] and humidity between [0] and [0.2]",
             "Always Fertility [-1] for Map Generation",
             "Considered [Undesirable] when determining start locations",
-            "Becomes [Tundra] when adjacent to [River]",
+			"Becomes [Snow] when adjacent to [Snow]",
 			"Becomes [Glassland] when adjacent to [Glassland]",
 			"Becomes [Plains] when adjacent to [Plains]",
 			"Becomes [Tundra] when adjacent to [Tundra]",
-			"Becomes [Snow] when adjacent to [Snow]",
+			"Becomes [Desert] when adjacent to [Desert]",
             "Every [17] tiles with this terrain will receive a major deposit of a strategic resource.",
             "Never receives any resources <in [Hill] tiles>"]
 	}
